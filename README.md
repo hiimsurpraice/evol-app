@@ -1,7 +1,7 @@
 # evol-app
 🚀 Instalación y Configuración
 1. Clonar el repositorio
-cd evolp-app
+cd evol-app
 2. niciar con Docker Compose
 # Construir e iniciar todos los servicios
 docker-compose up --build
